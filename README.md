@@ -12,34 +12,31 @@ A simple blog based on `python3.6` and `Django2.0`.
   
 ## Front page
 
-![1](http://7xljc2.com1.z0.glb.clouddn.com/20180315_1.png)
+![1](http://jinbitou.net/wp-content/uploads/2018/03/2018031504572726.png)
 
 
-![2](http://7xljc2.com1.z0.glb.clouddn.com/20180315_2.png)
-
----
-
-![3](http://7xljc2.com1.z0.glb.clouddn.com/20180315_3.png)
+![2](http://jinbitou.net/wp-content/uploads/2018/03/2018031504572826.png)
 
 ---
 
-![4](http://7xljc2.com1.z0.glb.clouddn.com/20180315_4.png)
+![3](http://jinbitou.net/wp-content/uploads/2018/03/201803130936111.gif)
+
 
 ---
 
 ## Backend page
-![1](http://7xljc2.com1.z0.glb.clouddn.com/20180315_5.png)
+![1](http://jinbitou.net/wp-content/uploads/2018/03/2018031504572953.png)
 
 ---
 
-![2](http://7xljc2.com1.z0.glb.clouddn.com/20180315_6.png)
+![2](http://jinbitou.net/wp-content/uploads/2018/03/2018031504574323.png)
 
 ---
-![3](http://7xljc2.com1.z0.glb.clouddn.com/20180309-4.png)
+![3](http://jinbitou.net/wp-content/uploads/2018/03/201803091037415.png)
 
 ---
 
-![4](http://7xljc2.com1.z0.glb.clouddn.com/20180315_7.png)
+![4](http://jinbitou.net/wp-content/uploads/2018/03/201803091037396.png)
 
 ---
 
