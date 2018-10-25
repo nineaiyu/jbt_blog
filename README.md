@@ -19,7 +19,7 @@ A simple blog based on `python3.6` and `Django2.0`.
 
 ---
 
-![3](http://jinbitou.net/wp-content/uploads/2018/03/201803130936111.gif)
+![3](http://jinbitou.net/wp-content/uploads/2018/03/2018031504572475.png)
 
 
 ---
